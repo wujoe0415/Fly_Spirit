@@ -26,6 +26,6 @@ Download Fly_Spirit.html and open file to start reading. Players can have their 
 
 ## Resource 資源
 
-## Contributor 貢獻者
+## Contributors 貢獻者
 
 陳妍伶、陳冠儀、蔡昕曄、懿珊
