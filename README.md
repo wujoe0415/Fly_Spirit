@@ -1,4 +1,4 @@
-# 飛。靈 Fly Spirit
+# 飛 · 靈 Fly Spirit
 
 ## 主視覺 KEY VISION
 
