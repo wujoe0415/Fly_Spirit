@@ -8,7 +8,7 @@
 *一位遺忘家鄉的原住民少年踏上了尋根之旅*
 
 *Who am I? Where am I?*  
-*An Indigenous who forgets his native place step on the trip of finding the root.*
+*An Indigenous who forgets his native place steps on the trip of finding the root.*
 
 ## 介紹 Introduction
 
