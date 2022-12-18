@@ -12,7 +12,7 @@
 
 ## 宣傳片 Promotional Video
 
-[![Watch the video](https://i.imgur.com/cSbJgRB.png=100x100)](https://youtu.be/Ce7K_s8SThw)
+[<img src="https://i.imgur.com/cSbJgRB.png" alt="Watch the video" width="325" height ="450" />](https://youtu.be/Ce7K_s8SThw)
 
 ## 介紹 Introduction
 
