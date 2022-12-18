@@ -10,9 +10,13 @@
 *Who am I? Where am I?*  
 *An Indigenous who forgets his native place steps on the trip of finding the root.*
 
+## 宣傳片 Promotional Video
+
+[![Watch the video](https://i.imgur.com/cSbJgRB.png)](https://youtu.be/Ce7K_s8SThw)
+
 ## 介紹 Introduction
 
-玩家以第一人稱是腳透過故事內容進行互動與解謎。  
+玩家以第一人稱視角透過故事內容進行互動與解謎。  
 遊戲一共分為三關：「遇飛」、「欲飛」、「癒飛」，循序漸進地找回自我的根。
 
 This story is written in a first-person-narrative way, and there are three chapters: *countering fly*, *longing fly* and *healing fly*.   
@@ -26,6 +30,8 @@ Download Fly_Spirit.html and open file to start reading. Players can have their 
 
 ## 資源 Resource
 
+[多媒體資源](https://drive.google.com/drive/folders/1-Bu8YHnTaZfH27WW8vAWBYVIUdgYOu0Y)
+
 ## 貢獻者 Contributors
 
-陳妍伶、陳冠儀、蔡昕曄、懿珊
+陳妍伶、陳冠誼、蔡欣曄、李懿珊、胡劭瑜、吳惠汶、姜瑞恆
