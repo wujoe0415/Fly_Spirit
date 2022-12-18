@@ -13,7 +13,7 @@
 ## 宣傳片 Promotional Video
 
 點擊下方圖片觀看宣傳片。  
-Click image below to watch promotional video.
+Click image below to watch the promotional video.
 
 [<img src="https://i.imgur.com/cSbJgRB.png" alt="Watch the video" width="325" height ="450" />](https://youtu.be/Ce7K_s8SThw)
 
