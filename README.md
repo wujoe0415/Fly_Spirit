@@ -2,7 +2,7 @@
 
 ## 主視覺 KEY VISION
 
-<img src="https://i.imgur.com/iAHdXRJ.png" style="zoom:50%;" />
+<img src="https://i.imgur.com/iAHdXRJ.png" width="350" height ="350" />
 
 *我是誰？我在哪裡？*  
 *一位遺忘家鄉的原住民少年踏上了尋根之旅*
